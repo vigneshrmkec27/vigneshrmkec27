@@ -2,10 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Vicky</h1>
 <h3 align="center">Aspiring Software Engineer | AI Enthusiast | Problem Solver</h3>
 
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Vicky's GitHub Stats" />
-</p>
+
 
 <!-- About Me -->
 ## About Me
